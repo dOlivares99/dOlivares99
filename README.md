@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi, I'm Diana 👋
 
-<!--
-**dOlivares99/dOlivares99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Information Systems Engineering student passionate about software development, databases, cloud technologies, and business applications.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technologies
+SQL Server
+C#
+.NET
+Git & GitHub
+Agile/Scrum
+Currently Working On
+Event Hall Management System (Azure Deployment)
+School Management System
+Smart Document Analyzer (AI + .NET)
+Interests
+Software Development
+Cloud Computing
+Data Engineering
+AI Applications
